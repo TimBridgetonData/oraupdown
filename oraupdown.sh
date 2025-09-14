@@ -63,7 +63,7 @@
 # Modifications:
 #       TGorman 23apr20 v0.1    written
 #       TGorman 14jul23 v0.9    posted to Github
-#       TGorman 13sep23 v1.0    added sid-list functionality
+#       TGorman 13sep23 v1.0    added sid-list functionality 
 #================================================================================
 #
 #--------------------------------------------------------------------------------
